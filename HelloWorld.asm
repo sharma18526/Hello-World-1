@@ -1,7 +1,7 @@
 
 .model small
 .data
-        msg db 10d,13d,"Hello World$"
+        msg db 10d,13d,"Hello Akshay$"
 
 .code
         mov ax,@data
